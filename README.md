@@ -60,7 +60,8 @@ Disclaimer: This guide is provided “as is”. It comes without any warranty an
 
 ***Note: the system language was not changed in this menu in my computer.***
 
-![Image](https://github.com/IkerGarcia/bleshark-nano-eu-firmware-guide/blob/main/pictures/6.png)
+<img width="364" height="469" alt="image" src="https://github.com/user-attachments/assets/70e6fcc6-10bb-4a5a-8c4e-56be34a5537e" />
+
  
 **9. (Optional) Connect a device to the hotspot:**
 *	Connect any device to the newly created hotspot.
